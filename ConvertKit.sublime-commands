@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "ConvertKit: List Tags",
+        "command": "convert_kit_manage_tags"
+    },
+    {
+        "caption": "ConvertKit: Create Tag",
+        "command": "convert_kit_create_tag"
+    },
+
+]
